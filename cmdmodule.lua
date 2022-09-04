@@ -1,7 +1,5 @@
-local module = {}
+return module = {}
 
 function module.Test()
 	return 'Test'
 end
-
-return module
